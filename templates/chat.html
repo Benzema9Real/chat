@@ -1,0 +1,30 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Чат</title>
+</head>
+<body>
+<h1>Это наш чат.</h1>
+
+{% for user in users %}
+    <h4>{{ user.message_id }}
+
+    {{ user.author_name }}
+<br>
+    {{ user.author_email }}
+<br>
+    {{ user.message_text }}
+<br>
+    {{ user.date_posted }}
+    </h4>
+<br>
+{% endfor %}
+
+
+
+
+
+</body>
+</html>

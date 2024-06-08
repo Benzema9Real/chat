@@ -1,0 +1,72 @@
+.header{
+    background-color: LightSeaGreen;
+}
+
+.section{
+   background-color: #FFFFFF;
+}
+
+.footer{
+    margin-left: 34%;
+    color: rgb(141,194,111);
+}
+
+.footer_name{
+    background-color: black;
+    color: rgb(141,194,111);
+}
+
+.image{
+    border-radius: 100px
+    width: 30px;
+    height: 30px;
+}
+
+.footer_image{
+    background-color: black;
+}
+
+.center{
+    text-align: center;}
+
+.text{
+    width: 600px;
+
+}
+
+.div{
+    margin-left: 35%;
+}
+.color{
+    background: rgb(141,194,111);
+}
+.color2{
+    color: rgb(141,194,111);
+}
+.black{
+    background: rgb(141,194,111);
+}
+.black1{
+    background: black;
+}
+
+.nav{
+   width: 100px;
+    height: 100px;
+    margin-top: 10px;
+
+}
+
+.nav2{
+
+    margin-top: 10px;
+    }
+.list{    background: #FFFFFF;
+
+   width: 500px;
+    height: 400px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+    margin-left: 30%;
+}
+
+.image111{ background-image: url(https://lsconsulting.ru/wp-content/uploads/2022/02/%D1%81%D0%BA%D0%BB%D0%B0%D0%B4-%D1%81%D0%BA%D0%BB%D0%B0%D0%B4.jpg)  }

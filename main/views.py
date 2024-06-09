@@ -5,7 +5,7 @@ from .models import Message
 from .forms import MessageForm, RegisterForm
 
 
-def index(request):
+def main(request):
     return render(request, 'message.html')
 
 

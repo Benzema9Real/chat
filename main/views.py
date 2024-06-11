@@ -6,7 +6,7 @@ from .forms import MessageForm, RegisterForm
 
 
 def main(request):
-    return render(request, 'message.html')
+    return render(request, 'main.html')
 
 
 def my_view(request):
